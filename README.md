@@ -1,8 +1,8 @@
-# Language Compiler
+# Abstract Machine - Language Compiler
 
 This project compiles & executes .abm files. The compiler supports stack-based programming.
 
-## ABM Syntax
+## ABM File Syntax
 ![ABM File Syntax 1](https://github.com/satwikbhasin/Machine-Level-Language-Compiler/blob/main/Assets/ABM%20Instructions%201.png)
 ![ABM File Syntax 2](https://github.com/satwikbhasin/Machine-Level-Language-Compiler/blob/main/Assets/ABM%20Instructions%202.png)
 
