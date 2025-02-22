@@ -1,4 +1,4 @@
-# Machine-level-Language-Compiler
+# Language Compiler
 
 This project compiles & executes .abm files. The compiler supports stack-based programming.
 
